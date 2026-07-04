@@ -3,7 +3,7 @@ Next.jsとSupabaseを用いた単語帳アプリです。
 
 ## サイトイメージ
 
-![アプリ画面]()
+![アプリ画面](https://github.com/sophie0938/PortfolioExample_WorX_ENGINEER-CLASS/blob/6ac43745f91a7b503ab76d1dd4329897898e2123/docs/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8.png?raw=true)
 
 ## サイトURL
 https://japanese-learningapp.vercel.app

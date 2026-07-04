@@ -1,6 +1,14 @@
 ## アプリ概要
 Next.jsとSupabaseを用いた単語帳アプリです。  
 
+## サイトイメージ
+
+![アプリ画面]()
+
+## サイトURL
+https://japanese-learningapp.vercel.app
+
+
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1CoT2IGuHdD216YW1eHGiQw6s_OzVstxDH-4IYs_Krp4/edit?usp=sharing)
 

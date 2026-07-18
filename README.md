@@ -12,32 +12,6 @@ Next.jsとSupabaseを用いた単語帳アプリです。
 https://japanese-learning-app-sophie.vercel.app
 
 
-## 設計ドキュメント
-[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1CoT2IGuHdD216YW1eHGiQw6s_OzVstxDH-4IYs_Krp4/edit?usp=sharing)
-
-詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](./docs)）
-
-## 使用技術
-
-### フロントエンド
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
-
-### バックエンド
-- Supabase
-- PostgreSQL
-- Supabase Auth
-- Row Level Security（RLS）
-
-### AI
-- Gemini API
-
-### デプロイ
-- Vercel
-
 ## 機能一覧
 
 ### 認証
@@ -56,3 +30,28 @@ https://japanese-learning-app-sophie.vercel.app
 
 ### マイページ
 - 添削履歴確認
+
+## 使用技術
+- フロントエンド：Next.js
+- バックエンド：Next.js
+- データベース：Supabase
+- AI：Gemini API
+- デプロイ：Vercel
+- バージョン管理：Git、GitHub
+- テスト・デバッグ：DevTools
+- CI/CD：GitHub Actions（ESLint）
+
+
+## 設計ドキュメント
+[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1CoT2IGuHdD216YW1eHGiQw6s_OzVstxDH-4IYs_Krp4/edit?usp=sharing)
+
+詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](./docs)）
+
+## 備考
+[ESLintの実行結果_GitHub Actions](https://github.com/sophie0938/japanese-learning-app/actions/runs/29651529401/job/88098566384)
+
+- 活用した生成AIとその用途
+  - ChatGPT：要件定義、設計、各種リサーチ
+  - v0：アプリのモック作成
+  - GitHub Copilot Chat：ローカル環境でのコードの修正相談
+
